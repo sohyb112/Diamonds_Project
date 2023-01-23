@@ -1,11 +1,11 @@
-#Diamonds-Price-Prediction
-##Description
+# Diamonds-Price-Prediction
+## Description
 The "Diamonds" dataset contains tens of thousands of records of diamonds and their price, as determined by experts. In this Project we will analyze the data (by their cut, color, clarity, price, and other attributes) and draw conclusions from the data and build a model that can predict diamond prices according to their characteristics.
 ![Image](https://repository-images.githubusercontent.com/355545549/cd08f880-b4f0-11eb-878d-7a636e555189)
 ##Diamonds Dataset 
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for machine learnung and work with data analysis and visualization.
 
-###Dataset Columns :
+### Dataset Columns :
 - price : price in US dollars ( $326 - $18,823 )
 
 - carat : weight of the diamond ( 0.2 - 5.01 )
@@ -25,19 +25,19 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
 - depth : total depth percentage = z / mean( x, y ) = 2 * z / ( x + y ) --> ( 43 - 79 )
 
 - table : width of top of diamond relative to widest point ( 43 - 95 )
-##Visualize the Data
+## Visualize the Data
 1. Examine distribution of target variable(price)
 2. Histogram all colomns
 3. Relation between all columns and Categories.
-##Encoding Categorical Variable
+## Encoding Categorical Variable
 We change the values of the categorical features to numeric values according to their quality, so that the model will be affected by these characteristics.
-##Relationship between volume and price.
+## Relationship between volume and price.
 We added a feature to the dataset that represents the volume of the diamond.
 ## Regression Algorithms Models
 1. Linear Regression
 2. Random Forest Regressor
 3. Decision Tree Regressor
-##Results
+## Results
 - Linear Regression
 ***r2_train          :  0.9077967797893242
 linear regression accuracy: 
