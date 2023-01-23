@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Diamonds-Price-Prediction
 ##Description
 The "Diamonds" dataset contains tens of thousands of records of diamonds and their price, as determined by experts. In this Project we will analyze the data (by their cut, color, clarity, price, and other attributes) and draw conclusions from the data and build a model that can predict diamond prices according to their characteristics.
