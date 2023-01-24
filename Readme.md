@@ -59,21 +59,14 @@ We added a feature to the dataset that represents the volume of the diamond.
  
  ![Picture7](https://user-images.githubusercontent.com/57026889/214211489-5cb3456c-3689-459e-9130-1942c72c88b8.png)
  
-***r2_train          :  0.9077967797893242
-linear regression accuracy: 
-r2_test       :  0.9105122393034278
-mae           :  801.6381032948378***
-
-
 - Random Forest Regressor
-***R2_train          :  0.9974101929649611
-Random Forest Regressor accuracy: 
-R2_test       :  0.9817868852797156
-MAE           :  267.9479157669652
-MSE (RMSE)    :  293265.5578559805  ( 541.5399873102452 )****
+
+  ![Picture8](https://user-images.githubusercontent.com/57026889/214211623-797aa80c-be20-4d9a-8ddc-f1604773292b.png)
+  
+  ![Picture9](https://user-images.githubusercontent.com/57026889/214211719-41bac814-084f-48ed-b8a5-b7521d64ad47.png)
+  
 - Decision Tree Regressor
-***R2_train          :  0.9999954501781485
-Decision Tree Regressor accuracy: 
-R2_test       :  0.9656613097730191
-MAE           :  357.357103115727
-MSE (RMSE)    :  552917.7902911721  ( 743.5844204198822 )******
+   
+   ![Picture10](https://user-images.githubusercontent.com/57026889/214211760-be27363f-94da-41e7-b69a-505069bc66f6.png)
+   
+   ![Picture11](https://user-images.githubusercontent.com/57026889/214211790-aa755976-e594-4044-a214-5abab76f1772.png)
