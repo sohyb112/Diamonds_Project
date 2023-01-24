@@ -27,7 +27,7 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
 - table : width of top of diamond relative to widest point ( 43 - 95 )
 ## Visualize the Data
 1. Examine distribution of target variable(price)
-![Picture2](https://user-images.githubusercontent.com/57026889/214001286-16052584-036a-49eb-a415-916a1a48dd93.png)
+
 2. Histogram all colomns
 3. Relation between all columns and Categories.
 ## Encoding Categorical Variable
