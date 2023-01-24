@@ -52,7 +52,13 @@ We added a feature to the dataset that represents the volume of the diamond.
 2. Random Forest Regressor
 3. Decision Tree Regressor
 ## Results
+
 - Linear Regression
+ 
+ ![Picture6](https://user-images.githubusercontent.com/57026889/214211398-3f834ef3-9d2d-41cf-a496-cce280e4b6ea.png)
+ 
+ ![Picture7](https://user-images.githubusercontent.com/57026889/214211489-5cb3456c-3689-459e-9130-1942c72c88b8.png)
+ 
 ***r2_train          :  0.9077967797893242
 linear regression accuracy: 
 r2_test       :  0.9105122393034278
