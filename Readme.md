@@ -34,6 +34,10 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
 2. Histogram all colomns
 ![Picture2](https://user-images.githubusercontent.com/57026889/214001286-16052584-036a-49eb-a415-916a1a48dd93.png)
 3. Relation between all columns and Categories.
+
+![Picture2](https://user-images.githubusercontent.com/57026889/214210929-ff4a7f9b-bae4-4773-8fd1-7cfa7f820882.png)
+
+![Picture3](https://user-images.githubusercontent.com/57026889/214211008-f3c936a2-b29d-48a8-b6fc-883f13c08bf2.png)
 ## Encoding Categorical Variable
 We change the values of the categorical features to numeric values according to their quality, so that the model will be affected by these characteristics.
 ## Relationship between volume and price.
